@@ -10,15 +10,15 @@ require (
 	github.com/go-acme/lego/v4 v4.6.0
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/go-resty/resty/v2 v2.7.0
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/imdario/mergo v0.3.12
 	github.com/juju/ratelimit v1.0.1
 	github.com/r3labs/diff/v2 v2.15.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/spf13/viper v1.10.1
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.8.1
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
-	github.com/urfave/cli v1.22.5
+	github.com/urfave/cli v1.22.12
 	github.com/xtls/xray-core v1.5.4
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	google.golang.org/appengine v1.6.7 // indirect
@@ -48,7 +48,7 @@ require (
 	github.com/cheekybits/genny v1.0.0 // indirect
 	github.com/cloudflare/cloudflare-go v0.34.0 // indirect
 	github.com/cpu/goacmedns v0.1.1 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/deepmap/oapi-codegen v1.9.1 // indirect
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
@@ -129,7 +129,7 @@ require (
 	github.com/spf13/cast v1.4.1 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/objx v0.3.0 // indirect
+	github.com/stretchr/objx v0.5.0 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.360 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.360 // indirect
@@ -160,7 +160,7 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
 replace github.com/linode/linodego => github.com/linode/linodego v0.31.1
